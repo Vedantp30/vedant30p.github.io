@@ -1,3 +1,4 @@
+VEDANT PANCHAL :- 21BCP117
 
 title: Docker Three Tier Architecture 
 ---
@@ -22,7 +23,7 @@ Before you begin, ensure that you have the following installed:
 
 
 ## Dockerfile(Backend)
-![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/backendvs.png)
+![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/backk.png)
 ## Dockerfile(Frontend)
 ![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/frontendvs.png)
 ## Deployment Steps
