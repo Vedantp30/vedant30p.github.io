@@ -71,7 +71,7 @@ Before you begin, ensure that you have the following installed:
      ```bash
      docker run -d -p 3500:3500 --name backend-container --network=three-tier-network backend
      ```
-     ![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/backend_port.png)
+     ![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/backendport.png)
 3. **Frontend Application:**
 
    - Navigate to the `frontend` directory.
