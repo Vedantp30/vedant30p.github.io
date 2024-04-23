@@ -25,7 +25,7 @@ Before you begin, ensure that you have the following installed:
 ## Dockerfile(Backend)
 ![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/backk.png)
 ## Dockerfile(Frontend)
-![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/frontendvs.png)
+![Alt Text](https://raw.githubusercontent.com/vedantp30/vedantp30.github.io/master/images/FRONT.png)
 ## Deployment Steps
 0. **Create Network**
    - Navigate to the `project` directory
